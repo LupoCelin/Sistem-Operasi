@@ -68,3 +68,41 @@
 
 ### 1. Cek atribut udev untuk disk (langkah keseluruhan)
 ![Langkah 1](image/prak7.jpeg)
+
+## Langkah-langkah 2.8
+
+### 1. membuat area kerja aman untuk semua latihan bab ini. (langkah keseluruhan)
+![Langkah 1](image/prak8.jpeg)
+
+### 2. Memunculkan
+![Langkah 1](image/prak8_2.jpeg)
+
+## Langkah-langkah 2.9
+
+### 1. fungsi command Gerp
+![Langkah 1](image/prak9.jpeg)
+
+## Langkah-langkah 2.10
+
+### 1. fungsi command sed
+![Langkah 1](image/prak10.jpeg)
+
+## Langkah-langkah 2.11
+
+### 1. fungsi command awk
+![Langkah 1](image/prak11.jpeg)
+
+## Langkah-langkah 2.12
+
+### 1. Fungsi ps
+![Langkah 1](image/prak12.jpeg)
+
+## Langkah-langkah 2.13
+
+### 1. Fungsi ps
+![Langkah 1](image/prak13.jpeg)
+
+## Langkah-langkah 2.14
+
+### 1. Fungsi kill
+![Langkah 1](image/prak14.jpeg)
