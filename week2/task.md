@@ -106,3 +106,20 @@
 
 ### 1. Fungsi kill
 ![Langkah 1](image/prak14.jpeg)
+
+## Langkah-langkah 2.15
+
+### 1. Cek penggunaan disk dan apa yang paling besar
+![Langkah 1](image/prak15.jpeg)
+
+### 2. Ambil log error terbaru (jika ada indikasi masalah)
+![Langkah 2](image/prak15_2.jpeg)
+
+## Langkah-langkah 2.16
+
+### 1. Lihat interface dan IP, Lihat routing table
+![Langkah 1](image/prak16.jpeg)
+
+### 2. Lihat port yang sedang listening:
+![Langkah 2](image/prak16.jpeg)
+
