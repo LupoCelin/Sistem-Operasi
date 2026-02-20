@@ -7,5 +7,5 @@
 
 ## Langkah langkah Keseluruhan
 1. penggunaan lscpu
-
+    (image/prak2.jpeg)
  
