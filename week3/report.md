@@ -9,13 +9,13 @@
 ## Praktikum 3
 
 ### 3.1
-![Hasil lscpu](image/3.1.jpeg.)
+![Hasil tugas 1](image/3.1.jpeg.)
 ### 3.2
-![Hasil lscpu](image/3.2.jpeg.)
+![Hasil tugas 2](image/3.2.jpeg.)
 ### 3.3
-![Hasil lscpu](image/3.3.jpeg.)
+![Hasil tugas 3](image/3.3.jpeg.)
 ### 3.4
-![Hasil lscpu](image/3.4.jpeg.)
+![Hasil tugas 4](image/3.4.jpeg.)
 ### 3.5
-![Hasil lscpu](image/3.5.jpeg.)
+![Hasil tugas 5](image/3.5.jpeg.)
 
