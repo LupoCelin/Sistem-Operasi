@@ -37,3 +37,37 @@
 * **Analisis:** Mayoritas proses berada dalam kondisi *Sleeping* (S) karena mereka tidak sedang membutuhkan CPU secara aktif. Mereka menunggu *event* atau interupsi tertentu (seperti input dari pengguna atau data dari jaringan) sebelum kembali aktif, guna menghemat daya dan sumber daya sistem.
 
 
+### Latihan 6.B: Simulasi Manajemen Job
+
+**1. Menjalankan Perintah di Background**
+![Hasil tugas 2](image/2.JPG.)
+Menjalankan tiga proses `sleep` dengan durasi berbeda di latar belakang dan melakukan verifikasi menggunakan perintah `jobs`.
+```bash
+sleep 120 &
+jobs
+
+**2. Manipulasi Foreground dan Background**
+Membawa job nomor 2 ke depan (foreground), menghentikannya sementara, lalu mengirimnya kembali ke latar belakang.
+
+Pindah ke Foreground: fg %2
+
+Pindah ke Background: bg %2 (status kembali menjadi 'Running' di latar belakang).
+
+
+### Latihan 6.C: Prioritas dan Sinyal (Implementasi)
+
+**1. Verifikasi Nilai Nice Awal**
+Berdasarkan hasil perintah `ps -l`, terlihat dua proses sleep berjalan dengan nilai NI (Nice) yang berbeda:
+* PID 451021 memiliki NI 5.
+* PID 451248 memiliki NI 10.
+
+**2. Mengubah Prioritas dengan Renice**
+Dilakukan pengubahan nilai nice pada proses pertama (PID 451021) menjadi +10:
+```bash
+renice +10 -p 451021
+
+
+![Hasil tugas 2.2](image/2.2.JPG.)
+
+
+
